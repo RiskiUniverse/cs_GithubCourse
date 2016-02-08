@@ -1,0 +1,1 @@
+changes for reflection to practic git add, git status and git log commands
